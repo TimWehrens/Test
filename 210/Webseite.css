@@ -1,0 +1,64 @@
+#gesamt {
+  width: 830px;
+  height: 650px;
+	background-color:#CCC;
+	border: solid 4px #3C474B;
+  margin: auto;
+  position: relative;
+
+}
+
+#Logo {
+
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 0px;
+	}
+
+  #Navigation {
+  	background-color:#808080;
+  			width: 830px;
+  			height: 100px;
+  			margin:auto;
+  			position: absolute;
+  			right:0px;
+  			top: 70px;
+        border-top: 10px #3C474B double;
+        border-bottom: 10px #3C474B double;
+  		}
+
+      #Fußzeile {
+	    background-color: #FFFFFF;
+			width: 720px;
+			height: 40px;
+			margin:auto;
+			position: absolute;
+			left:0px;
+			bottom: 0px;
+		}
+
+    #Fußzeilelogo {
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      right: 0px;
+      bottom: 0px;
+  }
+
+  #Hauptbild {
+
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 25px;
+    top: 215px;
+  	}
+
+#Text {
+  width: 380px;
+  height: 100px;
+  position: absolute;
+  right: 10px;
+  top: 215px;
+}
